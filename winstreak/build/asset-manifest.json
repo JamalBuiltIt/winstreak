@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/winstreak/static/css/main.2e04b4b6.css",
+    "main.js": "/winstreak/static/js/main.6c7b122f.js",
+    "index.html": "/winstreak/index.html",
+    "main.2e04b4b6.css.map": "/winstreak/static/css/main.2e04b4b6.css.map",
+    "main.6c7b122f.js.map": "/winstreak/static/js/main.6c7b122f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e04b4b6.css",
+    "static/js/main.6c7b122f.js"
+  ]
+}
