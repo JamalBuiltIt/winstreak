@@ -1,12 +1,44 @@
+# Dependency directories
+node_modules/
+.bower_components/
 
+# Production build directory
+build/
 
-# misc
-.DS_Store
+# Environment variables
+.env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
+# Logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor settings
+.idea/
+.vscode/
+*.swp
+
+# Optional npm cache
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Testing files
+coverage/
+
+# Miscellaneous
+*.log
+*.lock
+
+# Exclude all markdown files except README.md
+*.md
+!README.md
